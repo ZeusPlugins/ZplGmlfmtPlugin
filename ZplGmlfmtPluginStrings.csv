@@ -1,0 +1,12 @@
+﻿Name,English,Translation,Restrictions,Comment
+_Language,English,English,,Language name - in English
+_LanguageNative,English,English,,Language name in the native language
+_LanguageCode,en,en,,standard windows os language code this pack represents (can be primary code only ie. en or primary-secondary ie. en-GB)
+ZGFP_Title,gml_fmt for Zeus,gml_fmt for Zeus,,messagebox title
+ZGFP_Path,Path to the gml_fmt executable is not set or invalid.,Path to the gml_fmt executable is not set or invalid.,,messagebox body
+ZGFP_Project,Project path is invalid.,Project path is invalid.,,messagebox project body
+ZplGmlfmtPlugin,gml_fmt,gml_fmt,,preferences title
+ZplGmlfmt_Path,Path to the gml_fmt executable,Path to the gml_fmt executable,,settings title
+ZplGmlfmt_OnSave,Run gml_fmt after every project save?,Run gml_fmt after every project save?,,settings title no2
+ZGFP_MenuBar_Title,gml_fmt,gml_fmt,,menubar title
+ZGFP_MenuBar_Run,Run the tool,Run the tool,,menubar button

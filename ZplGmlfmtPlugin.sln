@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1525
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZplGmlfmtPlugin", "ZplGmlfmtPlugin.csproj", "{BC70C3F4-4245-41F9-91FB-78A82F9DE581}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC70C3F4-4245-41F9-91FB-78A82F9DE581}.Debug|x64.ActiveCfg = Debug|x64
+		{BC70C3F4-4245-41F9-91FB-78A82F9DE581}.Debug|x64.Build.0 = Debug|x64
+		{BC70C3F4-4245-41F9-91FB-78A82F9DE581}.Release|x64.ActiveCfg = Release|x64
+		{BC70C3F4-4245-41F9-91FB-78A82F9DE581}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F883335-AE79-4B8F-8A39-C3B20CB5A74A}
+	EndGlobalSection
+EndGlobal

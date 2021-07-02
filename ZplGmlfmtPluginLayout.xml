@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Layouts>
+  <Layout layout_name="ZplGmlfmtPluginLayout" layout_guid="f5127ca6-00b6-42e2-8972-8edce6a729cc">
+    <MenuBar stylename="menu_bar" layout_id="menu_bar" layout_guid="660b79b2-d045-4bd6-a7fa-78c3e1192b99" top="241dpi_px">
+      <MenuBarEntry stylename="menu_bar_entry" layout_id="menu_bar_gmlfmt" layout_guid="e46b96cc-e50b-4d7c-b06e-6efce1b63a97" width="241dpi_px" left="0dpi_px" localise_name="ZGFP_MenuBar_Title">
+        <ContextMenu stylename="context_menu" left="10dpi_px" top="10dpi_px">
+          <MenuEntry stylename="menu_entry" layout_id="menu_run_gmlfmt" layout_guid="35c7e0b6-9e1c-4ec5-ac0c-0888015e012e" localise_name="ZGFP_MenuBar_Run" />
+        </ContextMenu>
+      </MenuBarEntry>
+    </MenuBar>
+  </Layout>
+</Layouts>
