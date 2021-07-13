@@ -20,6 +20,7 @@ namespace YoYoStudio
             public class ZplGmlfmtPluginCommand : IModule, IDisposable
             {
                 public ModulePackage IdeInterface { get; set; }
+                public ModulePackage Package => IdeInterface;
                 public ZplGmlfmtPluginPreferences Preferences { get; set; }
                 public bool LayoutFailed { get; set; }
                 public bool Running { get; set; }
