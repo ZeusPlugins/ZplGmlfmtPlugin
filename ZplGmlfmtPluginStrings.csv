@@ -7,6 +7,8 @@ ZGFP_Path,Path to the gml_fmt executable is not set or invalid.,Path to the gml_
 ZGFP_Project,Project path is invalid.,Project path is invalid.,,messagebox project body
 ZplGmlfmtPlugin,gml_fmt,gml_fmt,,preferences title
 ZplGmlfmt_Path,Path to the gml_fmt executable,Path to the gml_fmt executable,,settings title
+ZplGmlfmt_Path_Tooltip,Make sure the build you choose is compatible with 2.3 projects!,,tooltip when you hover over the path box
 ZplGmlfmt_OnSave,Run gml_fmt after every project save?,Run gml_fmt after every project save?,,settings title no2
+ZplGmlfmt_OnSave_Tooltip,Enabling this feature may annoy you due to buggy FileWatcher.,,tooltip when you hover on the onsave checkbox
 ZGFP_MenuBar_Title,gml_fmt,gml_fmt,,menubar title
 ZGFP_MenuBar_Run,Run the tool,Run the tool,,menubar button
